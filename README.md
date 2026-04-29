@@ -1,1 +1,1 @@
-# laude-code-guide
+# claude-code-guide
